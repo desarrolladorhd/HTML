@@ -1,0 +1,441 @@
+Aquí tienes los códigos de ejemplo para cada uno de los ejercicios de la categoría "Estructura Básica de HTML":
+
+### 1. **Crear un documento HTML básico**
+
+**Ejercicio 1:**
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Primer Documento</title>
+</head>
+<body>
+    <h1>Bienvenido a mi página web</h1>
+</body>
+</html>
+```
+
+**Ejercicio 2:**
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Primer Documento</title>
+</head>
+<body>
+    <h1>Bienvenido a mi página web</h1>
+</body>
+</html>
+```
+
+**Ejercicio 3:**
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Primer Documento</title>
+</head>
+<body>
+    <!-- Este es un comentario sobre el documento -->
+    <h1>Bienvenido a mi página web</h1>
+</body>
+</html>
+```
+
+**Ejercicio 4:**
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Primer Documento</title>
+</head>
+<body>
+    <h1>Bienvenido a mi página web</h1>
+    <p>Este es mi primer párrafo.</p>
+</body>
+</html>
+```
+
+**Ejercicio 5:**
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Primer Documento</title>
+</head>
+<body>
+    <h1>Bienvenido a mi página web</h1>
+</body>
+</html>
+```
+
+### 2. **Definir y usar etiquetas `<html>`, `<head>`, `<body>`**
+
+**Ejercicio 1:**
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Primer Documento</title>
+</head>
+<body>
+    <h1>Introducción al HTML</h1>
+</body>
+</html>
+```
+
+**Ejercicio 2:**
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Primer Documento</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>Introducción al HTML</h1>
+</body>
+</html>
+```
+
+**Ejercicio 3:**
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Primer Documento</title>
+</head>
+<body>
+    <h1>Introducción al HTML</h1>
+</body>
+</html>
+```
+
+**Ejercicio 4:**
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Primer Documento</title>
+</head>
+<body>
+    <h1>Introducción al HTML</h1>
+    <h2>Subtítulo 1</h2>
+</body>
+</html>
+```
+
+**Ejercicio 5:**
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Primer Documento</title>
+</head>
+<body>
+    <h1>Introducción al HTML</h1>
+    <h2>Subtítulo 1</h2>
+</body>
+</html>
+```
+
+### 3. **Crear títulos con `<h1>` a `<h6>`**
+
+**Ejercicio 1:**
+```html
+<h1>Título Principal</h1>
+```
+
+**Ejercicio 2:**
+```html
+<h2>Subtítulo 1</h2>
+```
+
+**Ejercicio 3:**
+```html
+<h3>Sección 1</h3>
+<h3>Sección 2</h3>
+<h3>Sección 3</h3>
+```
+
+**Ejercicio 4:**
+```html
+<h4 style="color:red;">Título en Rojo</h4>
+```
+
+**Ejercicio 5:**
+```html
+<h5>Título de Sección 5</h5>
+<h6>Título de Sección 6</h6>
+```
+
+### 4. **Crear párrafos con `<p>`**
+
+**Ejercicio 1:**
+```html
+<p>Este es mi primer párrafo.</p>
+```
+
+**Ejercicio 2:**
+```html
+<p>HTML es un lenguaje de marcado utilizado para estructurar el contenido en la web.</p>
+```
+
+**Ejercicio 3:**
+```html
+<p>Visita <a href="https://www.example.com">este enlace</a> para más información.</p>
+```
+
+**Ejercicio 4:**
+```html
+<p>Este es un párrafo con texto en <strong>negrita</strong>.</p>
+```
+
+**Ejercicio 5:**
+```html
+<blockquote>
+    <p>Esta es una cita famosa.</p>
+</blockquote>
+```
+
+### 5. **Incluir comentarios en HTML**
+
+**Ejercicio 1:**
+```html
+<!-- Este documento es un ejemplo de comentarios en HTML -->
+```
+
+**Ejercicio 2:**
+```html
+<h1>Bienvenido a mi página web</h1>
+<!-- Este título es el encabezado principal -->
+```
+
+**Ejercicio 3:**
+```html
+<!-- Estructura de etiquetas HTML -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Página</title>
+</head>
+<body>
+</body>
+</html>
+```
+
+**Ejercicio 4:**
+```html
+<!-- Inicio de la sección de contenido -->
+<p>Contenido de la página...</p>
+```
+
+**Ejercicio 5:**
+```html
+<!-- Este es un trabajo en progreso -->
+```
+
+### 6. **Crear enlaces usando `<a>`**
+
+**Ejercicio 1:**
+```html
+<a href="https://www.example.com">Visitar Ejemplo</a>
+```
+
+**Ejercicio 2:**
+```html
+<a href="#seccion1">Ir a Sección 1</a>
+```
+
+**Ejercicio 3:**
+```html
+<a href="https://www.example.com" target="_blank">Visitar Ejemplo en Nueva Pestaña</a>
+```
+
+**Ejercicio 4:**
+```html
+<a href="mailto:ejemplo@correo.com">Enviar un correo</a>
+```
+
+**Ejercicio 5:**
+```html
+<a href="https://www.example.com">
+    <img src="icono.png" alt="Icono de Ejemplo">
+</a>
+```
+
+### 7. **Crear listas ordenadas y desordenadas**
+
+**Ejercicio 1:**
+```html
+<ul>
+    <li>Elemento 1</li>
+    <li>Elemento 2</li>
+    <li>Elemento 3</li>
+</ul>
+```
+
+**Ejercicio 2:**
+```html
+<ol>
+    <li>Primer elemento</li>
+    <li>Segundo elemento</li>
+    <li>Tercer elemento</li>
+    <li>Cuarto elemento</li>
+    <li>Quinto elemento</li>
+</ol>
+```
+
+**Ejercicio 3:**
+```html
+<ol>
+    <li>Primer elemento
+        <ul>
+            <li>Subelemento 1</li>
+            <li>Subelemento 2</li>
+        </ul>
+    </li>
+    <li>Segundo elemento</li>
+</ol>
+```
+
+**Ejercicio 4:**
+```html
+<ul>
+    <li>Enlace 1: <a href="https://www.example1.com">Ejemplo 1</a></li>
+    <li>Enlace 2: <a href="https://www.example2.com">Ejemplo 2</a></li>
+</ul>
+```
+
+### 8. **Insertar imágenes con `<img>`**
+
+**Ejercicio 1:**
+```html
+<img src="https://www.example.com/imagen.jpg" alt="Descripción de la imagen">
+```
+
+**Ejercicio 2:**
+```html
+<img src="imagen_local.jpg" alt="Descripción de la imagen">
+```
+
+**Ejercicio 3:**
+```html
+<img src="imagen.jpg" alt="Descripción de la imagen" width="300" height="200">
+```
+
+**Ejercicio 4:**
+```html
+<img src="imagen.jpg" alt="Descripción de la imagen">
+<img src="imagen2.jpg" alt="Descripción de otra imagen">
+```
+
+### 9. **Crear un documento HTML con una estructura semántica**
+
+**Ejercicio 1:**
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Documento Semántico</title>
+</head>
+<body>
+    <header>
+        <h1>Título Principal</h1>
+        <nav>
+            <ul>
+                <li><a href="#seccion1">Sección 1</a></li>
+                <li><a href="#seccion2">Sección 2</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="seccion1">
+            <h2>Sección 1</h2>
+            <p>Contenido de la sección 1.</p>
+        </section>
+        <section id="seccion2">
+            <h2>Sección 2</h2>
+            <p>Contenido de la sección 2.</p>
+        </section>
+    </main>
+    <footer>
+        <p>Derechos de autor © 2024</p>
+    </footer>
+</body>
+</html>
+```
+
+### 10. **Crear una tabla simple con `<table>`**
+
+**Ejercicio 1:**
+```html
+<table>
+    <tr>
+        <td>Fila 1, Columna 1</td
+
+>
+        <td>Fila 1, Columna 2</td>
+    </tr>
+    <tr>
+        <td>Fila 2, Columna 1</td>
+        <td>Fila 2, Columna 2</td>
+    </tr>
+</table>
+```
+
+**Ejercicio 2:**
+```html
+<table>
+    <tr>
+        <th>Encabezado 1</th>
+        <th>Encabezado 2</th>
+    </tr>
+    <tr>
+        <td>Fila 1, Columna 1</td>
+        <td>Fila 1, Columna 2</td>
+    </tr>
+</table>
+```
+
+**Ejercicio 3:**
+```html
+<table>
+    <tr>
+        <td colspan="2">Fila 1, Columna 1 y 2 combinadas</td>
+    </tr>
+    <tr>
+        <td>Fila 2, Columna 1</td>
+        <td>Fila 2, Columna 2</td>
+    </tr>
+</table>
+```
+
+**Ejercicio 4:**
+```html
+<table>
+    <tr>
+        <td rowspan="2">Fila 1, Columna 1 y 2 combinadas</td>
+        <td>Fila 1, Columna 2</td>
+    </tr>
+    <tr>
+        <td>Fila 2, Columna 2</td>
+    </tr>
+</table>
+```
+
+**Ejercicio 5:**
+```html
+<table style="border: 1px solid black; border-collapse: collapse;">
+    <tr>
+        <th style="border: 1px solid black;">Encabezado 1</th>
+        <th style="border: 1px solid black;">Encabezado 2</th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black;">Fila 1, Columna 1</td>
+        <td style="border: 1px solid black;">Fila 1, Columna 2</td>
+    </tr>
+</table>
+```
+
+Con estos ejemplos de código, tendrás una buena base para practicar y aplicar los conceptos de la estructura básica de HTML. ¡Disfruta programando!
