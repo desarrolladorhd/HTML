@@ -1,4 +1,4 @@
-###**"Estructura Básica de HTML":**
+### **"Estructura Básica de HTML":**
 
 ### 1. **Crear un documento HTML básico**
 
