@@ -8,10 +8,10 @@ Crea un archivo HTML llamado index.html con la estructura básica de un document
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Mi Primer Documento</title>
+    
 </head>
 <body>
-    <h1>Bienvenido a mi página web</h1>
+    
 </body>
 </html>
 ```
