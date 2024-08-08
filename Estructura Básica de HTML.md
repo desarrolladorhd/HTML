@@ -3,6 +3,7 @@ Aquí tienes los códigos de ejemplo para cada uno de los ejercicios de la categ
 ### 1. **Crear un documento HTML básico**
 
 **Ejercicio 1:**
+Crea un archivo HTML llamado index.html con la estructura básica de un documento HTML (doctype, html, head y body).
 ```html
 <!DOCTYPE html>
 <html>
