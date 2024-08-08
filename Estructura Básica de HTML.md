@@ -17,6 +17,7 @@ Crea un archivo HTML llamado index.html con la estructura básica de un document
 ```
 
 **Ejercicio 2:**
+Agrega un título a tu documento HTML en la sección <head> y verifica que se muestre en la pestaña del navegador.
 ```html
 <!DOCTYPE html>
 <html>
@@ -30,6 +31,7 @@ Crea un archivo HTML llamado index.html con la estructura básica de un document
 ```
 
 **Ejercicio 3:**
+Añade un comentario en tu código HTML describiendo el propósito del documento.
 ```html
 <!DOCTYPE html>
 <html>
@@ -44,6 +46,7 @@ Crea un archivo HTML llamado index.html con la estructura básica de un document
 ```
 
 **Ejercicio 4:**
+Incluye un párrafo en el cuerpo del documento con el texto "Bienvenido a mi página web".
 ```html
 <!DOCTYPE html>
 <html>
@@ -58,6 +61,7 @@ Crea un archivo HTML llamado index.html con la estructura básica de un document
 ```
 
 **Ejercicio 5:**
+Guarda tu archivo, ábrelo en un navegador y verifica que el contenido se muestra correctamente.
 ```html
 <!DOCTYPE html>
 <html>
