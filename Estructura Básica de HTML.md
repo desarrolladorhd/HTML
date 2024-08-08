@@ -1,4 +1,4 @@
-Aquí tienes los códigos de ejemplo para cada uno de los ejercicios de la categoría "Estructura Básica de HTML":
+"Estructura Básica de HTML":
 
 ### 1. **Crear un documento HTML básico**
 
@@ -442,5 +442,3 @@ Guarda tu archivo, ábrelo en un navegador y verifica que el contenido se muestr
     </tr>
 </table>
 ```
-
-Con estos ejemplos de código, tendrás una buena base para practicar y aplicar los conceptos de la estructura básica de HTML. ¡Disfruta programando!
